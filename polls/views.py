@@ -5,7 +5,7 @@ def index(request):
     return HttpResponse(" <h1>hii there ! Your django app is ready to go , bhoom! </h1>")
 
 
-def detail(request, question_id):
+def detailmodify(request, question_id):
     return HttpResponse(" <h1> You are looking at question %s. </h1>" %question_id)
 
 
