@@ -1,9 +1,9 @@
 li a {
-    color:rgb(61, 139, 132);
+    color:rgb(235, 233, 250);
 }
 
 body {
 
-    background: rgb(19, 18, 20) url("mine1.jpg") no-repeat;
+    background: rgb(238, 232, 245) url("/Users/reddivaridamu/Desktop/sreeblog/polling_app/mysite/polls/static/polls/images/mine1.JPG") no-repeat;
 
 }
