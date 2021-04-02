@@ -1,9 +1,10 @@
 li a {
-    color:rgb(47, 46, 51);
+    color:rgb(196, 224, 223);
 }
 
 body {
 
-    background: rgb(194, 177, 212) url("/Users/reddivaridamu/Desktop/sreeblog/polling_app/mysite/polls/static/polls/images/mine1.JPG");
+    background : url( 'images/mine1.JPG' ) no-repeat;
+    background-size : 100%;
 
 }
