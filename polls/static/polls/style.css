@@ -8,3 +8,12 @@ body {
     background-size : 100%;
 
 }
+
+form {
+    background : url('images/mine1.JPG') no-repeat;
+    background-size : 75%;
+}
+
+ul {
+    background :rgb(95, 60, 190);
+}
