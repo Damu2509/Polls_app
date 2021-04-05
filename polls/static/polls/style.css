@@ -1,5 +1,6 @@
 li a {
-    color:rgb(196, 224, 223);
+    background : url('downloads/damu.jpg') no-repeat;
+    color:rgb(214, 13, 233);
 }
 
 body {
@@ -9,11 +10,7 @@ body {
 
 }
 
-form {
-    background : url('images/mine1.JPG') no-repeat;
-    background-size : 75%;
-}
 
-ul {
-    background :rgb(95, 60, 190);
+ul a {
+    background :rgb(2, 74, 168);
 }

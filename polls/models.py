@@ -23,8 +23,5 @@ class Choice(models.Model):
     def __str__(self):
         return self.choice_text
 
-was_published_recently.admin_order_field = 'pub_date'
-was_published_recentlly.boolean = True
-was_published_recently.short_description = 'published recently ? '
 
 
